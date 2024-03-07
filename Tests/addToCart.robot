@@ -11,7 +11,7 @@ Suite Setup    Start test cases
 Suite Teardown    Close test Cases
 
 *** Variables ***
-@{Products}    Men Tshirt    Blue Top    Summer White Top    Stylish Dress    Winter Top
+@{Products}    Men Tshirt    Blue Top
 
 *** Test Cases ***
 Add products to cart
